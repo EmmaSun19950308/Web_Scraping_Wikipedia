@@ -1,5 +1,4 @@
-# Wikipedia_Data_Mining
-What can we find from Wikipedia Featured Articles?
+## What can we find from Wikipedia Featured Biograph?
 
 In this small task, I am supposed to use HTTP requests to receive JSON objects, and clean real
 HTML data from the open web. In particular, we will be scraping content from Wikipedia. The
