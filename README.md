@@ -18,8 +18,11 @@ In this practice, we are expected to accomplish a series of tasks as follows:
 Write a function get_featured_biographies() to scrape the contents of the list of featured
 articles and returns a list of names for all featured articles that are also biographies. Then, answer
 the following questions:
+
 ● How did you determine which featured articles were biographies?
+
 ● What percentage of featured articles are biographies?
+
 2. Scraping a dataset
 Next, write code that scrapes all of the individual pages for featured article biography titles in the list
 you created in part 1. Write a function get_first_paragraph(page) that extracts the first
@@ -32,9 +35,13 @@ the characteristics of the pages that your code fails to scrape?
 Using regular expressions, write a new method get_pronouns(text) that determines the most
 common gender of pronouns in a given string of any length. Typically but not always, the three ways
 gender are marked in pronouns are:
+
 ● Male: he/his/him
+
 ● Female: she/her/hers
+
 ● Plural, or singular non-binary: they/them/their
+
 Answer the following questions abut your calculations:
 ● What are the drawbacks of your approach, and what types of content are excluded or missed
 because of the choices you made?
